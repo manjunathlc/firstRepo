@@ -1,2 +1,3 @@
 hello create new folder
 changing in local and pushing
+practise the push command
